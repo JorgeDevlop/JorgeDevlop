@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web data storage manager**
 
-- 🌱 I’m currently learning **Marketing,Web Develop**
+- 🌱 I’m currently learning **Marketing,Web development,Bash**
 
 - 👯 I’m looking to collaborate on **Bixu**
 
