@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JorgeDevlop](https://github.com/JorgeDevlop)
 
-- 💬 Ask me about **HTML,CSS,Python,javascript,PHP,MySQL,Angular,Jquery,Python**
+- 💬 Ask me about **HTML,CSS,Python,javascript,PHP,MySQL,Angular,Jquery**
 
 - 📫 How to reach me **martinezromerojorgemiguel@gmail.com**
 
