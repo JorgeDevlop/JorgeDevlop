@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Web data storage manager**
 
-- 🌱 I’m currently learning **Bash,Java and Laravel **
+- 🌱 I’m currently learning **Python and NodeJS**
 
 - 👯 I’m looking to collaborate on **Bixu**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JorgeDevlop](https://github.com/JorgeDevlop)
 
-- 💬 Ask me about **HTML,CSS,Python,javascript,PHP,MySQL,Angular,Jquery**
+- 💬 Ask me about **HTML,CSS,Javascript,PHP,MySQL,Jquery**
 
 - 📫 How to reach me **martinezromerojorgemiguel@gmail.com**
 
