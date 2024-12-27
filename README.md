@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Martinez</h1>
-<h3 align="center">A passionate frontend and backend developer from Mexico</h3>
+<h3 align="center">A passionate backend developer from Mexico</h3>
 
 - 🔭 I’m currently working on **Web data storage manager**
 
-- 🌱 I’m currently learning **Python and NodeJS**
+- 🌱 I’m currently learning **AppSheet and NodeJS**
 
 - 👯 I’m looking to collaborate on **Bixu**
 
